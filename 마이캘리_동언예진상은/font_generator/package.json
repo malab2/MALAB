@@ -1,0 +1,26 @@
+{
+  "name": "mycalli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_font.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "multer": "^1.3.1",
+    "pngjs": "^3.3.3",
+    "serve-favicon": "^2.5.0",
+    "svg2ttf": "^4.1.0",
+    "svgicons2svgfont": "^9.0.3",
+    "webfont": "^8.1.4"
+  }
+}
